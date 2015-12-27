@@ -1,0 +1,75 @@
+img {
+	width:100px;
+	height:100px;
+}
+
+table {
+	font-family: Helvetica, sans-serif;
+}
+
+ table td img {
+	border: 2px solid black
+}
+
+table td a {
+	target: "_blank"
+
+}
+.spacer {
+	width: 1px;
+	height: 50px;
+}
+
+.footer {
+ white-space: nowrap;
+ background-color: #e0dbe3
+}
+
+.textfooter {
+	text-align: center;
+}
+
+#top {
+	padding-top: 5px;
+	text-align: center;
+}
+
+#bottom {
+	padding-bottom: 5px;
+	text-align: center;
+}
+
+body {
+	background-color: white
+}
+
+
+h4 {
+	font-family: "Helvetica"
+}
+
+body {
+    background-color: #fcf5fe;
+}
+
+h1 {
+    color: #f66784;
+    font-family: "Helvetica";
+    font-size: 30px;
+    text-align: center
+}
+
+p {
+    font-family: "Helvetica";
+    font-size: 16px;
+}
+
+.center {
+		text-align: center;
+		font-family: Helvetica,sans-serif;
+		font-size: 20px
+}
+
+ul li {
+	font-family: Helvetica,sans-serif;
+}
